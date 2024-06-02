@@ -3,7 +3,7 @@ from collections import defaultdict
 import json
 import time
 
-# Define the search function with retry logic and exponential backoff
+# Define the search function with retry logic and  exponential backoff
 def search_crossref(keyword, start_year, end_year, retries=5, delay=1, email="alexander.luzhkov@gmail.com"):
     url = "https://api.crossref.org/works"
     headers = {
