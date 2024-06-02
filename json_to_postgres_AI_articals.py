@@ -5,7 +5,7 @@ import psycopg2
 with open("ai_articles_counts.json", "r") as f:
     data = json.load(f)
 
-# Connect to PostgreSQL database
+# Connect to PostgreSQL  database
 conn = psycopg2.connect(
     dbname='AI_scholarly_articles_number_per_year', 
     user='postgres', 
