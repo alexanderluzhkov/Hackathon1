@@ -58,7 +58,7 @@ def plot_data():
 root = tk.Tk()
 root.title("AI Scholar Articles Analysis")
 
-# Time span input
+# Time span  input
 tk.Label(root, text="Start Year:").grid(row=0, column=0, padx=10, pady=10)
 start_year_entry = tk.Entry(root)
 start_year_entry.grid(row=0, column=1, padx=10, pady=10)
