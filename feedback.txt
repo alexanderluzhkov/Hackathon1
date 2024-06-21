@@ -1,0 +1,11 @@
+hackathon feedback
+
+- Technology 7/8 : The project integrates several advanced technologies and concepts, including using the Crossref API with exponential backoff for robust data retrieval, PostgreSQL for database management, and tkinter for GUI development. Additionally, it includes data handling with pandas and plotting with matplotlib. The overall complexity and integration of different components are impressive. You could have enhanced the robustness of the application by adding error handling for different types of exceptions and potential issues in API responses.
+- Completion 6/8 : Your user interface allows for dynamic querying and plotting of the number of scholarly articles across different AI subfields over specified years, it s a shame you didn’t showcased it in your video.
+- Learning 7/8 : The project indicates significant learning effort, including API handling with retries, database management, GUI development, and data visualization. The use of exponential backoff for API calls shows an understanding of advanced techniques to handle API rate limiting and errors. To improve your project, you could have explored and integrated additional data sources or APIs to enrich the analysis.
+
+Total 20/24
+
+High level of technical expertise, good completion of the project goals, and significant learning efforts. You demonstrate a strong grasp of API usage, database management, GUI development, and data visualization, with room for further enhancements in interactive features and advanced analysis techniques. 
+
+Well done !
